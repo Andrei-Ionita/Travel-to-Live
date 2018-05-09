@@ -1,0 +1,30 @@
+a[title="Interactive JavaScript maps"] {
+    display: none !important;
+}
+
+.tab-content {
+    overflow: auto;
+    height: 50vh;
+  }
+
+.form-login-reg {
+    width: 35vw;
+    margin: 2rem auto;
+}
+
+.owl-dots {
+    position: absolute;
+    width: 100%;
+    z-index: 20;
+    margin: 0;
+    top: auto;
+    bottom: 5vh;
+}
+
+.country__intro__hideContent {
+    overflow: hidden;
+    line-height: 1em;
+    height: 50vh;
+}
+
+
